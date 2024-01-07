@@ -5,3 +5,5 @@
 🌱 Currently, I've advanced my skills in artificial intelligence, Python, and JavaScript, actively applying these proficiencies to real-world projects.
 
 💞️ I'm enthusiastic about collaborating on projects involving UX/UI design, artificial intelligence, and JavaScript development. My commitment remains unwavering in delivering top-notch work that surpasses expectations.
+
+🔧 My skill set includes proficiency in JavaScript, React.js, Python, AWS, GitHub, CSS, HTML, UX/UI Design, Agile Methodologies, and a range of other tools critical to frontend development and consulting.
