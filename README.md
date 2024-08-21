@@ -1,9 +1,11 @@
-👋 Hello, I'm Ash, a passionate developer dedicated to crafting elegant and intuitive applications.
+👋 Hello, I'm Ash, a passionate and innovative developer committed to crafting elegant and intuitive applications.
 
-👀 I love front-end development, data science, and artificial intelligence, continually broadening my expertise in these fields.
+🏆 I recently won the Open Data BR SQL Saturday Hackathon, where my skills in front-end development and data science were key to our success.
 
-🌱 Currently, I've advanced my skills in artificial intelligence, Python, and JavaScript, actively applying these proficiencies to real-world projects.
+👀 My expertise spans front-end development, data science, and artificial intelligence. I am continually expanding my knowledge in these areas, applying advanced techniques to solve real-world challenges.
 
-💞️ I'm enthusiastic about collaborating on projects involving UX/UI design, artificial intelligence, and JavaScript development. My commitment remains unwavering in delivering top-notch work that surpasses expectations.
+🌱 Currently, I'm deepening my expertise in artificial intelligence, Python, and JavaScript, integrating these skills into impactful projects.
 
-🔧 My skill set includes proficiency in JavaScript, React.js, Python, AWS, GitHub, CSS, HTML, UX/UI Design, Agile Methodologies, and a range of other tools critical to frontend development and consulting.
+💞️ I'm eager to collaborate on projects involving UX/UI design, AI, and JavaScript development, with a dedication to delivering exceptional work that exceeds expectations.
+
+🔧 My skill set includes proficiency in JavaScript, React.js, Python, AWS, GitHub, CSS, HTML, UX/UI Design, Agile Methodologies, and other essential tools for front-end development and consulting.
