@@ -1,7 +1,7 @@
 👋 Hey, I’m Ashley Broussard
 I’m a creative full-stack dev with a UX heart, a product brain, and an AI-assisted workflow. I design interfaces people want to touch, build backend systems that hold up under pressure, and debug chaos — code or otherwise.
 
-Whether it’s redesigning a DMV kiosk for accessibility, embedding spiritual content in a retreat dashboard, or building a weird little onboarding bot for forgetful dev teams — I make tools that are useful, intuitive, and just a little unexpected.
+Whether it’s redesigning a DMV kiosk for accessibility, embedding spiritual content in a retreat dashboard, or building a weird little bot for forgetful dev teams — I make tools that are useful, intuitive, and just a little unexpected.
 
 🧰 Tech & Tactics
 Frontend: React, MODX, WordPress, GoHighLevel, Tailwind, Figma
