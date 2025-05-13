@@ -32,7 +32,7 @@ I make tools that are useful, intuitive, and just a little unexpected.
 ## 🚀 Recent Work Highlights
 
 🏆 **SQL Saturday Hackathon Winner**  
-Built a full-stack React Native civic data app in 24 hours
+Built a full-stack React Native civic data app
 
 🧘 **Spiritual Retreat Dashboard**  
 Custom UI w/ dynamic theming & Bible API integration
@@ -40,7 +40,7 @@ Custom UI w/ dynamic theming & Bible API integration
 🚗 **Dealership Sites + Tools**  
 Inventory scrapers, mass email tools, 15% sales lift
 
-🛠 **50+ Client Sites (Ongoing)**  
+🛠 **50+ Client Sites at ServiceHawk**  
 UX fixes, SEO/retargeting, GoHighLevel funnels, ADA polish
 
 🤖 **AI Onboarding Assistant (WIP)**  
