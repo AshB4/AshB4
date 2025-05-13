@@ -1,24 +1,25 @@
 # 👋 Hey, I’m Ashley Broussard
 
 🎯 **Creative Full-Stack Developer · UX-Centered · Automation-Ready**  
-
-📍 Livingston, LA | 📫 [Email Me](mailto:Fleurdeviefarmsllc@gmail.com) | 📄 [Download Résumé](https://AshB4.github.io/AshleyBroussard2025Resume.pdf)  
-🌐 [Portfolio Site](https://AshB4.github.io) | 🛍 [Gumroad Products](https://fleurdevie.gumroad.com)
+📍 Livingston, LA  
+📫 [Email Me](mailto:Fleurdeviefarmsllc@gmail.com) | 📄 [Download Résumé](https://AshB4.github.io/AshleyBroussard2025Resume.pdf)  
+🌐 [Portfolio](https://AshB4.github.io) | 🩺 [SeniorHealthcareSolution.net](https://www.seniorhealthcaresolution.net) | 🛍 [Gumroad Products](https://fleurdevie.gumroad.com)
 
 ---
 
-I’m a creative full-stack dev with a UX heart, a product brain, and an AI-assisted workflow.  
+I’m a full-stack dev with a UX heart, a product brain, and an AI-assisted workflow.  
 I design interfaces people *want to touch*  
 Build backend systems that **scale under pressure**  
-And debug chaos — code or otherwise
+And debug chaos — code or otherwise.
 
+---
 
-Whether it’s:
-- 🔁 redesigning a DMV kiosk for accessibility
-- ✨ embedding spiritual content into a retreat dashboard
-- 🤖 or building a weird little bot for forgetful dev teams...
+### Whether it’s:
+- 🔁 Redesigning a DMV kiosk for accessibility
+- 🩺 Helping seniors compare insurance with a clean React UI
+- 🤖 Or building a weird little bot for forgetful dev teams...
 
-I make tools that are useful, intuitive, and just a little unexpected.
+> I make tools that are useful, intuitive, and just a little unexpected.
 
 ---
 
@@ -27,10 +28,9 @@ I make tools that are useful, intuitive, and just a little unexpected.
 **Frontend:** React · MODX · WordPress · GoHighLevel · Tailwind · Figma  
 **Backend:** Node.js · C# · Python · Django · SQL · Firebase  
 **Dev Skills:** UX/UI · Mobile-first · Accessibility · SEO · Analytics · API integration  
-**Magic Tools:** AWS · Pressable · Cloudflare · GPT · AdRoll
-**Other Tools:** Docker · Cloudflare · GPT APIs · Email Automation · Hosting Platforms
+**Power Tools:** Docker · GPT APIs · AWS · Cloudflare · Email Automation · Hosting Platforms
 
-> ⚙️ Need someone who can go from idea → wireframe → working app with A/B-tested clarity? That’s me.
+> ⚙️ Idea → Wireframe → Working App with A/B-tested clarity? That’s my zone.
 
 ---
 
@@ -39,33 +39,35 @@ I make tools that are useful, intuitive, and just a little unexpected.
 🏆 **SQL Saturday Hackathon Winner**  
 Built a full-stack React Native civic data app
 
-🩺 [SeniorHealthcareSolution.net](https://www.seniorhealthcaresolution.net)  
-Built a React-based platform helping fixed-income seniors compare insurance plans  
-Includes benefit filters, plan match scoring, UX tweaks for older users, and live API integration
+🩺 **[SeniorHealthcareSolution.net](https://www.seniorhealthcaresolution.net)**  
+Launched a React platform helping fixed-income seniors compare insurance plans  
+Includes plan match scoring, benefit filters, and ADA-compliant UX for older users
 
+🟩 **Green Square Ritual**  
+GitHub automation tool that commits daily, tracks activity, and keeps your streaks alive (and sneaky)
 
-🚗 **Dealership Sites + Tools**  
-Inventory scrapers, mass email tools, 15% sales lift
+🚗 **Dealership Toolkit**  
+Inventory scrapers, custom email tools, 15% lift in plan sales
 
 🛠 **50+ Client Sites at ServiceHawk**  
-UX fixes, SEO/retargeting, GoHighLevel funnels, ADA polish
+MODX/WordPress maintenance, SEO, retargeting, and ADA polish across brands
 
 🤖 **AI Onboarding Assistant (WIP)**  
-Built to kill process chaos and boost team retention
+Internal GPT-based workflow agent to eliminate onboarding chaos and boost retention
 
-> 🔗 Explore my pinned repos for code samples & demos  
-> 🔍 Or view the polished breakdown at [AshB4.github.io](https://AshB4.github.io)
+> 🔗 Explore my pinned repos for code samples  
+> 🔍 Or check out the full walkthrough at [AshB4.github.io](https://AshB4.github.io)
 
 ---
 
 ## 💬 Let’s Build Something Weird + Useful
 
-If you’re looking for:
-- Clarity in chaos
-- Cosmic-grade creativity
-- And code that works — with a little spark.
+If you're looking for:
+- ✨ Cosmic-grade creativity
+- 📐 UX that makes sense
+- 🛠️ Code that works and winks at you...
 
-📫 [Email Me](mailto:Fleurdeviefarmsllc@gmail.com) | 🤝 [Let’s Connect on LinkedIn](https://linkedin.com/in/ashley-m-broussard-33a392253)
+📫 [Email Me](mailto:Fleurdeviefarmsllc@gmail.com) | 🤝 [LinkedIn](https://linkedin.com/in/ashley-m-broussard-33a392253)
 
 ---
 
