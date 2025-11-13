@@ -6,7 +6,7 @@ Got it. Here’s the clean, professional version of your intro — no emojis, no
 
 **Full Stack Developer | React, Node.js, AWS | UX-Focused and Automation-Driven**
 Livingston, LA (Remote)
-[Fleurdeviefarmsllc@gmail.com](mailto:Fleurdeviefarmsllc@gmail.com)
+[ashley.broussard.dev@gmail.com](mailto:ashley.broussard.dev@gmail.com)
 [Portfolio](https://AshB4.github.io) | [GitHub](https://github.com/AshB4) | [LinkedIn](https://linkedin.com/in/ashley-m-broussard-33a392253) | [TrueFidelityHealthcareAdvisors.com](https://www.truefidelityhealthcareadvisors.com) | [Gumroad](https://fleurdevie.gumroad.com)
 
 ---
