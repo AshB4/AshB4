@@ -7,7 +7,7 @@ Got it. Here’s the clean, professional version of your intro — no emojis, no
 **Full Stack Developer | React, Node.js, AWS | UX-Focused and Automation-Driven**
 Livingston, LA (Remote)
 [Fleurdeviefarmsllc@gmail.com](mailto:Fleurdeviefarmsllc@gmail.com)
-[Portfolio](https://AshB4.github.io) | [GitHub](https://github.com/AshB4) | [LinkedIn](https://linkedin.com/in/ashley-m-broussard-33a392253) | [SeniorHealthcareSolution.net](https://www.seniorhealthcaresolution.net) | [Gumroad](https://fleurdevie.gumroad.com)
+[Portfolio](https://AshB4.github.io) | [GitHub](https://github.com/AshB4) | [LinkedIn](https://linkedin.com/in/ashley-m-broussard-33a392253) | [TrueFidelityHealthcareAdvisors.com](https://www.truefidelityhealthcareadvisors.com) | [Gumroad](https://fleurdevie.gumroad.com)
 
 ---
 
@@ -56,7 +56,7 @@ If you’re looking for:
 * UX that’s clear and practical
 * Code that performs under pressure
 
-Contact: [Fleurdeviefarmsllc@gmail.com](mailto:Fleurdeviefarmsllc@gmail.com) | [LinkedIn](https://linkedin.com/in/ashley-m-broussard-33a392253)
+Contact: [ashley.broussard.dev@gmail.com](mailto:Fleurdeviefarmsllc@gmail.com) | [LinkedIn](https://linkedin.com/in/ashley-m-broussard-33a392253)
 
 ---
 
@@ -64,4 +64,3 @@ Contact: [Fleurdeviefarmsllc@gmail.com](mailto:Fleurdeviefarmsllc@gmail.com) | [
 
 ---
 
-Would you like me to format this next for your portfolio site’s About page (HTML/React version), or keep it styled for resume and LinkedIn text blocks?
