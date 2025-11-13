@@ -11,8 +11,9 @@ Livingston, LA (Remote)
 
 ---
 
-I’m a self-taught full stack developer who combines UX intuition, product thinking, and AI-assisted workflows.
-I design interfaces people want to use, build backends that scale under pressure, and bring order to chaotic systems.
+I’m a self-taught full stack developer, currently expanding my technical depth through Codex Academy.
+I blend UX thinking, product strategy, and automation to build practical, user-centered applications.
+I design interfaces people want to use, build backends that scale, and turn complex systems into something that just works.
 
 ---
 
