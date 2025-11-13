@@ -1,74 +1,67 @@
-# 👋 Hey, I’m Ashley Broussard
-
-🎯 **Creative Full-Stack Developer · UX-Centered · Automation-Ready**  
-📍 Livingston, LA  
-📫 [Email Me](mailto:Fleurdeviefarmsllc@gmail.com) | 📄 [Download Résumé](https://AshB4.github.io/AshleyBroussard2025Resume.pdf)  
-🌐 [Portfolio](https://AshB4.github.io) | 🩺 [SeniorHealthcareSolution.net](https://www.seniorhealthcaresolution.net) | 🛍 [Gumroad Products](https://fleurdevie.gumroad.com)
+Got it. Here’s the clean, professional version of your intro — no emojis, no em or en dashes, and formatted to flow naturally for LinkedIn, portfolio, or resume use.
 
 ---
 
-I’m a full-stack dev with a UX heart, a product brain, and an AI-assisted workflow.  
-I design interfaces people *want to touch*  
-Build backend systems that **scale under pressure**  
-And debug chaos — code or otherwise.
+# Hey, I’m Ashley Broussard
+
+**Full Stack Developer | React, Node.js, AWS | UX-Focused and Automation-Driven**
+Livingston, LA (Remote)
+[Fleurdeviefarmsllc@gmail.com](mailto:Fleurdeviefarmsllc@gmail.com)
+[Portfolio](https://AshB4.github.io) | [GitHub](https://github.com/AshB4) | [LinkedIn](https://linkedin.com/in/ashley-m-broussard-33a392253) | [SeniorHealthcareSolution.net](https://www.seniorhealthcaresolution.net) | [Gumroad](https://fleurdevie.gumroad.com)
 
 ---
 
-### Whether it’s:
-- 🔁 Redesigning a DMV kiosk for accessibility
-- 🩺 Helping seniors compare insurance with a clean React UI
-- 🤖 Or building a weird little bot for forgetful dev teams...
-
-> I make tools that are useful, intuitive, and just a little unexpected.
+I’m a self-taught full stack developer who combines UX intuition, product thinking, and AI-assisted workflows.
+I design interfaces people want to use, build backends that scale under pressure, and bring order to chaotic systems.
 
 ---
 
-## 🧰 Tech & Tactics
+### Notable Work
 
-**Frontend:** React · MODX · WordPress · GoHighLevel · Tailwind · Figma  
-**Backend:** Node.js · C# · Python · Django · SQL · Firebase  
-**Dev Skills:** UX/UI · Mobile-first · Accessibility · SEO · Analytics · API integration  
-**Power Tools:** Docker · GPT APIs · AWS · Cloudflare · Email Automation · Hosting Platforms
+* Redesigned a DMV kiosk interface to meet accessibility standards and improve usability for public users.
+* Built a React app that helps seniors compare insurance plans clearly and confidently.
+* Developed a team automation bot that keeps developers on track and projects moving efficiently.
 
-> ⚙️ Idea → Wireframe → Working App with A/B-tested clarity? That’s my zone.
-
----
-
-## 🚀 Recent Work Highlights
-
-🏆 **SQL Saturday Hackathon Winner**  
-Built a full-stack React Native civic data app
-
-🩺 **[SeniorHealthcareSolution.net](https://www.seniorhealthcaresolution.net)**  
-Launched a React platform helping fixed-income seniors compare insurance plans  
-Includes plan match scoring, benefit filters, and ADA-compliant UX for older users
-
-🟩 **Green Square Ritual**  
-GitHub automation tool that commits daily, tracks activity, and keeps your streaks alive (and sneaky)
-
-🚗 **Dealership Toolkit**  
-Inventory scrapers, custom email tools, 15% lift in plan sales
-
-🛠 **50+ Client Sites at ServiceHawk**  
-MODX/WordPress maintenance, SEO, retargeting, and ADA polish across brands
-
-🤖 **AI Onboarding Assistant (WIP)**  
-Internal GPT-based workflow agent to eliminate onboarding chaos and boost retention
-
-> 🔗 Explore my pinned repos for code samples  
-> 🔍 Or check out the full walkthrough at [AshB4.github.io](https://AshB4.github.io)
+I create tools that are useful, intuitive, and a bit unexpected.
 
 ---
 
-## 💬 Let’s Build Something Weird + Useful
+## Technical Skills
 
-If you're looking for:
-- ✨ Cosmic-grade creativity
-- 📐 UX that makes sense
-- 🛠️ Code that works and winks at you...
+**Frontend:** React.js, TypeScript, Tailwind, MODX, WordPress, Figma
+**Backend:** Node.js, C#, Python, Django, SQL, Firebase
+**Cloud & Infrastructure:** AWS, Docker, Cloudflare, Email Automation, Serverless Deployments
+**Core Strengths:** Accessible UI (WCAG 2.1), API Integration, SEO Optimization, Analytics
 
-📫 [Email Me](mailto:Fleurdeviefarmsllc@gmail.com) | 🤝 [LinkedIn](https://linkedin.com/in/ashley-m-broussard-33a392253)
+From concept to deployment, I deliver apps with measurable impact and clear, user-centered design.
 
 ---
 
-🛸 *“I don’t just build things — I make them make sense.”*
+## Career Highlights
+
+**SQL Saturday Hackathon Winner** - Built a React Native civic data app
+**SeniorHealthcareSolution.net** - Full stack, accessible insurance comparison platform
+**Green Square Ritual** - GitHub automation for activity tracking
+**Dealership Toolkit** - Inventory and email tools that improved sales by 15 percent
+**Service Hawk** - Managed and enhanced over 50 WordPress and MODX sites with SEO and ADA compliance
+**AI Onboarding Assistant (WIP)** - GPT-based workflow agent to streamline onboarding
+
+---
+
+## Let’s Build Something That Works and Makes Sense
+
+If you’re looking for:
+
+* Creative problem solving
+* UX that’s clear and practical
+* Code that performs under pressure
+
+Contact: [Fleurdeviefarmsllc@gmail.com](mailto:Fleurdeviefarmsllc@gmail.com) | [LinkedIn](https://linkedin.com/in/ashley-m-broussard-33a392253)
+
+---
+
+*"I don’t just build things. I make them make sense."*
+
+---
+
+Would you like me to format this next for your portfolio site’s About page (HTML/React version), or keep it styled for resume and LinkedIn text blocks?
