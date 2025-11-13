@@ -1,7 +1,3 @@
-Got it. Here’s the clean, professional version of your intro — no emojis, no em or en dashes, and formatted to flow naturally for LinkedIn, portfolio, or resume use.
-
----
-
 # Hey, I’m Ashley Broussard
 
 **Full Stack Developer | React, Node.js, AWS | UX-Focused and Automation-Driven**
