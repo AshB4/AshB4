@@ -37,11 +37,10 @@ From concept to deployment, I deliver apps with measurable impact and clear, use
 ## Career Highlights
 
 **SQL Saturday Hackathon Winner** - Built a React Native civic data app
-**SeniorHealthcareSolution.net** - Full stack, accessible insurance comparison platform
+**TrueFidelityHealthcaareAdvisors** - Full stack, accessible insurance comparison platform
 **Green Square Ritual** - GitHub automation for activity tracking
 **Dealership Toolkit** - Inventory and email tools that improved sales by 15 percent
 **Service Hawk** - Managed and enhanced over 50 WordPress and MODX sites with SEO and ADA compliance
-**AI Onboarding Assistant (WIP)** - GPT-based workflow agent to streamline onboarding
 
 ---
 
