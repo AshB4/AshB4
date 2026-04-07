@@ -57,10 +57,10 @@ AWS, Docker, Cloudflare, CI/CD, Serverless
 ## Notable Projects
 
 - [True Fidelity Healthcare Advisors](https://www.truefidelityhealthcareadvisors.com) - Full-stack, accessible insurance comparison platform  
-- N8tiveFlow — Multi-platform content automation system  
-- LaStormMapr — Hurricane preparedness and response dashboard  
-- TurboVetChallenge — Secure RBAC system with JWT authentication and Nx architecture  
-- NasaEventTracker — Real-time global event tracker using NASA APIs  
+- N8tiveFlow - Multi-platform content automation system  
+- LaStormMapr - Hurricane preparedness and response dashboard  
+- TurboVetChallenge - Secure RBAC system with JWT authentication and Nx architecture  
+- NasaEventTracker - Real-time global event tracker using NASA APIs  
 
 ---
 
