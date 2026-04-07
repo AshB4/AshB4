@@ -1,62 +1,73 @@
-# Hey, I’m Ashley Broussard
+# Ashley Broussard
 
-**Full Stack Developer | React, Node.js, AWS | UX-Focused and Automation-Driven**
+Full Stack Engineer (Frontend-focused)  
+React, TypeScript, Node.js, AWS  
 Livingston, LA (Remote)
-[ashley.broussard.dev@gmail.com](mailto:ashley.broussard.dev@gmail.com)
-[Portfolio](https://AshB4.github.io) | [GitHub](https://github.com/AshB4) | [LinkedIn](https://linkedin.com/in/ashley-m-broussard-33a392253) | [TrueFidelityHealthcareAdvisors.com](https://www.truefidelityhealthcareadvisors.com) | [Gumroad](https://fleurdevie.gumroad.com)
+
+ashley.broussard.dev@gmail.com  
+[LinkedIn](https://linkedin.com/in/ashley-m-broussard-33a392253) • [GitHub](https://github.com/AshB4) • [Portfolio](https://AshB4.github.io)
 
 ---
 
-I’m a self-taught full stack developer, currently expanding my technical depth through Codex Academy.
-I blend UX thinking, product strategy, and automation to build practical, user-centered applications.
-I design interfaces people want to use, build backends that scale, and turn complex systems into something that just works.
+## What I Do
+
+I build real-world applications with a focus on usability, accessibility, and performance.
+
+- Accessibility-first UI (WCAG 2.1)
+- Secure systems (RBAC, auth flows, API protection)
+- API-driven architecture
+- Automation and workflow systems
+
+Experience across healthcare, SaaS, and civic tech.
 
 ---
 
-### Notable Work
+## Selected Work
 
-* Redesigned a DMV kiosk interface to meet accessibility standards and improve usability for public users.
-* Built a React app that helps seniors compare insurance plans clearly and confidently.
-* Developed a team automation bot that keeps developers on track and projects moving efficiently.
-
-I create tools that are useful, intuitive, and a bit unexpected.
-
----
-
-## Technical Skills
-
-**Frontend:** React.js, TypeScript, Tailwind, MODX, WordPress, Figma
-**Backend:** Node.js, C#, Python, Django, SQL, Firebase
-**Cloud & Infrastructure:** AWS, Docker, Cloudflare, Email Automation, Serverless Deployments
-**Core Strengths:** Accessible UI (WCAG 2.1), API Integration, SEO Optimization, Analytics
-
-From concept to deployment, I deliver apps with measurable impact and clear, user-centered design.
+- Built an accessible healthcare application for senior users, improving usability and reducing friction in complex workflows  
+- Developed a Medicare comparison platform with complex API integration and AWS deployment  
+- Created automation systems to streamline content workflows and improve team productivity  
+- Built real-time dashboards for disaster response and public safety tools  
 
 ---
 
-## Career Highlights
+## Tech Stack
 
-**SQL Saturday Hackathon Winner** - Built a React Native civic data app
-**TrueFidelityHealthcaareAdvisors** - Full stack, accessible insurance comparison platform
-**Green Square Ritual** - GitHub automation for activity tracking
-**Dealership Toolkit** - Inventory and email tools that improved sales by 15 percent
-**Service Hawk** - Managed and enhanced over 50 WordPress and MODX sites with SEO and ADA compliance
+**Frontend**  
+React, TypeScript, Tailwind, WordPress, MODX  
 
----
+**Backend**  
+Node.js, Python, Django, SQL, C#  
 
-## Let’s Build Something That Works and Makes Sense
-
-If you’re looking for:
-
-* Creative problem solving
-* UX that’s clear and practical
-* Code that performs under pressure
-
-Contact: [ashley.broussard.dev@gmail.com](mailto:Fleurdeviefarmsllc@gmail.com) | [LinkedIn](https://linkedin.com/in/ashley-m-broussard-33a392253)
+**Cloud & Tools**  
+AWS, Docker, Cloudflare, CI/CD, Serverless  
 
 ---
 
-*"I don’t just build things. I make them make sense."*
+## Highlights
+
+- SQL Saturday Hackathon Winner — React Native civic data app  
+- Built and deployed full-stack healthcare and SaaS applications  
+- Improved sales performance by 15% through custom automation and funnel systems  
+- Managed and optimized 50+ production websites with performance and accessibility focus  
 
 ---
 
+## Notable Projects
+
+- [True Fidelity Healthcare Advisors](https://www.truefidelityhealthcareadvisors.com) — Full-stack, accessible insurance comparison platform  
+- N8tiveFlow — Multi-platform content automation system  
+- LaStormMapr — Hurricane preparedness and response dashboard  
+- TurboVetChallenge — Secure RBAC system with JWT authentication and Nx architecture  
+- NasaEventTracker — Real-time global event tracker using NASA APIs  
+
+---
+
+## Contact
+
+ashley.broussard.dev@gmail.com  
+[LinkedIn](https://linkedin.com/in/ashley-m-broussard-33a392253)
+
+---
+
+I build systems people actually use.
