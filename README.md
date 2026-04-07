@@ -4,7 +4,7 @@ Full Stack Engineer (Frontend-focused)
 React, TypeScript, Node.js, AWS  
 Livingston, LA (Remote)
 
-fleurdeviefarmsllc@gmail.com  
+fleurdeviefarmsllc@gmail.com 
 [LinkedIn](https://linkedin.com/in/ashley-m-broussard-33a392253) • [GitHub](https://github.com/AshB4) • [Portfolio](https://AshB4.github.io)
 
 ---
