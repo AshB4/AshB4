@@ -47,7 +47,7 @@ AWS, Docker, Cloudflare, CI/CD, Serverless
 
 ## Highlights
 
-- SQL Saturday Hackathon Winner — React Native civic data app  
+- SQL Saturday Hackathon Winner - React Native civic data app
 - Built and deployed full-stack healthcare and SaaS applications  
 - Improved sales performance by 15% through custom automation and funnel systems  
 - Managed and optimized 50+ production websites with performance and accessibility focus  
@@ -56,7 +56,7 @@ AWS, Docker, Cloudflare, CI/CD, Serverless
 
 ## Notable Projects
 
-- [True Fidelity Healthcare Advisors](https://www.truefidelityhealthcareadvisors.com) — Full-stack, accessible insurance comparison platform  
+- [True Fidelity Healthcare Advisors](https://www.truefidelityhealthcareadvisors.com) - Full-stack, accessible insurance comparison platform  
 - N8tiveFlow — Multi-platform content automation system  
 - LaStormMapr — Hurricane preparedness and response dashboard  
 - TurboVetChallenge — Secure RBAC system with JWT authentication and Nx architecture  
